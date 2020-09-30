@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring_Boot-master.iml" filepath="$PROJECT_DIR$/.idea/Spring_Boot-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq/demo.iml" filepath="$PROJECT_DIR$/rabbitmq/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/docker/docker.iml" filepath="$PROJECT_DIR$/docker/docker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysql/postagresql.iml" filepath="$PROJECT_DIR$/mysql/postagresql.iml" />
+    </modules>
+  </component>
+</project>
